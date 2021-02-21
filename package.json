@@ -1,0 +1,17 @@
+{
+  "name": "encrypted-files",
+  "version": "1.0.0",
+  "description": "Packges for Dristibuted Systems Encrypted Files Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Miguel Angel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mime-types": "^2.1.29",
+    "multer": "^1.4.2"
+  }
+}
